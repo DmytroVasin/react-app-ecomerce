@@ -1,0 +1,21 @@
+.highlight {
+    background-color: yellow;
+}
+
+.navbar-style {
+    background-color: rgb(7, 87, 0) !important;
+}
+
+.green-highlight {
+    color: green;
+    font-size: 40px;
+}
+
+.red-highlight {
+    color: red;
+    font-size: 25px;
+}
+
+.hand-icon {
+    cursor: pointer;
+}
